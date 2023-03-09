@@ -1,4 +1,8 @@
-# ATIVIDADE-1---SI---PROGRAMA-O-AVAN-ADA---54-2022
+#backend with php ##Activity that I did challenge to learn more about Java
+
+##Find description bellow:
+
+### ATIVIDADE-1---SI---PROGRAMA-O-AVAN-ADA---54-2022
 
 Em tempos de eleição, você foi designado a criar um programa em Java para realizar uma pesquisa eleitoral. Para realizar a pesquisa é preciso fazer a leitura de quantas pessoas serão contabilizadas, logo após essa informação, crie uma estrutura de repetição para ler a opção de voto de cada um dos participantes. No final deverá ser mostrado a quantidade de votos bem como o percentual obtido por cada um deles.
 
